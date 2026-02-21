@@ -1,0 +1,3 @@
+16:15:38.379 [main] DEBUG testCases.LoginTest - ************* Launching Browser *****************
+16:15:52.430 [main] DEBUG testCases.LoginTest - ************* Launching Application *****************
+16:15:54.695 [main] DEBUG testCases.LoginTest - ************* Closing Browser *****************
